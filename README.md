@@ -5,7 +5,6 @@
 
 <br>
 <br>
-<br>
 
 Mögliche Projekte
 - [15 C# Project Ideas: Beginner to Expert (With tutorial)](https://dev.to/nerdjfpb/15-c-project-ideas-beginner-to-expert-with-tutorial-iio)** 

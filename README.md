@@ -8,18 +8,10 @@
 - **[100+ Project Ideas](https://dev.to/samborick/100-project-ideas-oda)** 
 
 - **[C# Project Ideas From Beginner To Expert](https://codersera.com/blog/c-project-ideas/)** -
--
--
--
--
--
--
--
--    
-  
-    
-  
-  
-  
+
+<br>
+<br>
+<br>
+
 Markdown Cheat Sheet:  
 https://www.markdownguide.org/cheat-sheet/

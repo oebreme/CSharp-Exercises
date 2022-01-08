@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\exercises"
+    "\\exercises",
+    "\\exercises\\number guessing game"
   ],
-  "SelectedNode": "\\exercises",
+  "SelectedNode": "\\exercises\\number guessing game\\Number Guessing Game.sln",
   "PreviewInSolutionExplorer": false
 }

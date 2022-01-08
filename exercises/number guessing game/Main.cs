@@ -6,8 +6,9 @@ namespace number_guessing_game
     {
         public static void Main()
         {
-            Console.WriteLine("Hallo");
+            Console.WriteLine("Hallo du Körbiz");
             Console.ReadKey();
+            // Github??
         }
     }
 }

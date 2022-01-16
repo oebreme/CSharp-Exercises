@@ -4,3 +4,10 @@ C:\Users\Johannes\source\repos\Number Guessing Game\bin\Debug\Number Guessing Ga
 C:\Users\Johannes\source\repos\Number Guessing Game\bin\Debug\Number Guessing Game.pdb
 C:\Users\Johannes\source\repos\Number Guessing Game\obj\Debug\Number Guessing Game.exe
 C:\Users\Johannes\source\repos\Number Guessing Game\obj\Debug\Number Guessing Game.pdb
+C:\Users\Johannes\Source\Repos\oebreme\CSharp-Exercises\exercises\number guessing game\obj\Debug\Number Guessing Game.csproj.AssemblyReference.cache
+C:\Users\Johannes\Source\Repos\oebreme\CSharp-Exercises\exercises\number guessing game\obj\Debug\Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Source\Repos\oebreme\CSharp-Exercises\exercises\number guessing game\obj\Debug\Number Guessing Game.exe
+C:\Users\Johannes\Source\Repos\oebreme\CSharp-Exercises\exercises\number guessing game\obj\Debug\Number Guessing Game.pdb
+C:\Users\Johannes\Source\Repos\oebreme\CSharp-Exercises\exercises\number guessing game\bin\Debug\Number Guessing Game.exe.config
+C:\Users\Johannes\Source\Repos\oebreme\CSharp-Exercises\exercises\number guessing game\bin\Debug\Number Guessing Game.exe
+C:\Users\Johannes\Source\Repos\oebreme\CSharp-Exercises\exercises\number guessing game\bin\Debug\Number Guessing Game.pdb
